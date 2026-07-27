@@ -21,6 +21,4 @@ I’m passionate about technology, design, and continuous learning. My interests
 - 📫 How to reach me: Email📩hannahbella.atay@g.msuiit.edu.ph 
 - 😄 Pronouns: She/Her
 
-const contributions = await Contributions.forUser('Hannbella011');
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HannBella011)](https://github.com/stats-organization/github-stats-extended)

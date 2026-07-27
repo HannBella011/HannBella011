@@ -1,4 +1,4 @@
-![](https://github.com/HannBella011/HannBella011/blob/main/banner2.png)
+![](https://github.com/HannBella011/HannBella011/blob/main/BANNER.png)
 
 # Hi there 👋, I'm Hannah Bella Cambaya Atay
 

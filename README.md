@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hannah Bella
-![](https://i.pinimg.com/736x/27/cb/99/27cb99ae6919d51da84b26162121334b.jpg)
+![](https://i.pinimg.com/736x/ff/9e/ee/ff9eeeafeadfa5db33ed21eddf99eec1.jpg)
 
 I’m passionate about technology, design, and continuous learning. My interests include software development, UI/UX design, and digital creativity, where I enjoy combining logic with artistry to build meaningful solutions. Outside of coding, I love working on layout and design projects, experimenting with Canva, and exploring ways to make ideas visually engaging.
 
@@ -21,16 +21,8 @@ Skills: HTML & CSS / JAVA / JAVA SWING/ PYTHON / JSP & SERVLETS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HannBella011)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannBella011)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HannBella011&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/HannBella011)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HannBella011)  
-
-
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HannBella011)](https://github.com/stats-organization/github-stats-extended)

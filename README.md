@@ -19,6 +19,8 @@ I’m passionate about technology, design, and continuous learning. My interests
 - 🤔 I’m looking for help with improving database optimization and Java web deployment 
 - 💬 Ask me about Canva design tips, Java basics, or UI layout ideas 
 - 📫 How to reach me: Email📩hannahbella.atay@g.msuiit.edu.ph 
-- 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her
+
+const contributions = await Contributions.forUser('Hannbella011');
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HannBella011)](https://github.com/stats-organization/github-stats-extended)

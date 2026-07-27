@@ -6,7 +6,11 @@ I’m passionate about technology, design, and continuous learning. My interests
 
 **You can connect with me on LinkedIn or explore my repositories here on GitHub!**
 
-## Skills: HTML & CSS / JAVA / JAVA SWING/ PYTHON / JSP & SERVLETS
+## Skills
+* 💻 HTML & CSS
+* ⚛️ JAVA & JAVA SWING
+* 📱 PYTHON  
+* 🔐 JSP & SERVLETS
 
 - 🔭 I’m currently working on creative web designs and improving my Java programming skills 
 - 🌱 I’m currently learning advanced Java concepts, MySQL integration, and UI/UX principles 

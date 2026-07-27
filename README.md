@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hannah Bella
-![]((https://github.com/HannBella011/HannBella011/blob/main/banner2.png)
+![](https://github.com/HannBella011/HannBella011/blob/main/banner2.png)
 
 I’m passionate about technology, design, and continuous learning. My interests include software development, UI/UX design, and digital creativity, where I enjoy combining logic with artistry to build meaningful solutions. Outside of coding, I love working on layout and design projects, experimenting with Canva, and exploring ways to make ideas visually engaging.
 

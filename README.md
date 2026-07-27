@@ -2,11 +2,11 @@
 
 # Hi there 👋, I'm Hannah Bella Cambaya Atay
 
-From the Philippines, currently pursuing a Bachelor of Science in Information Technology at Mindanao State University – Iligan Institute of Technology (MSU‑IIT). I’m passionate about technology, design, and continuous learning. My interests include software development, UI/UX design, and digital creativity, where I enjoy combining logic with artistry to build meaningful solutions. Outside of coding, I love working on layout and design projects, experimenting with Canva, and exploring ways to make ideas visually engaging.
+I’m passionate about technology, design, and continuous learning. My interests include software development, UI/UX design, and digital creativity, where I enjoy combining logic with artistry to build meaningful solutions. Outside of coding, I love working on layout and design projects, experimenting with Canva, and exploring ways to make ideas visually engaging.
 
 **You can connect with me on LinkedIn or explore my repositories here on GitHub!**
 
-Skills: HTML & CSS / JAVA / JAVA SWING/ PYTHON / JSP & SERVLETS
+## Skills: HTML & CSS / JAVA / JAVA SWING/ PYTHON / JSP & SERVLETS
 
 - 🔭 I’m currently working on creative web designs and improving my Java programming skills 
 - 🌱 I’m currently learning advanced Java concepts, MySQL integration, and UI/UX principles 
